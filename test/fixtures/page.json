@@ -1,0 +1,12 @@
+{
+    "version"       : 1,
+    "type"          : "page",
+    "userId"        : "019mr8mf4r",
+    "properties"    : {
+        "path"      : "/pricing",
+        "referrer"  : "https://segment.com",
+        "title"     : "Segment Pricing",
+        "url"       : "https://segment.com/pricing"
+    },
+    "timestamp" : "2012-12-02T00:30:08.276Z"
+}

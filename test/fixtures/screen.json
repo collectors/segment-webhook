@@ -1,0 +1,22 @@
+{
+    "version"   : 1,
+    "type"      : "screen",
+    "userId"    : "019mr8mf4r",
+    "name"      : "Main Screen",
+    "timestamp" : "2012-12-02T00:30:08.276Z",
+    "context"   : {
+        "device"     : {
+            "model"  : "x86_64",
+            "type"   : "ios"
+        },
+        "os"         : {
+            "name"   : "iPhone OS",
+            "version": "7.1"
+        },
+        "app"        : {
+            "build"  : "88",
+            "name"   : "YourApp",
+            "version": "2.0.0"
+        }
+    }
+}

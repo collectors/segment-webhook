@@ -1,0 +1,7 @@
+{
+    "version"   : 1,
+    "type"      : "alias",
+    "from"      : "from_id",
+    "to"        : "to_id",
+    "timestamp" : "2012-12-02T00:30:08.276Z"
+}

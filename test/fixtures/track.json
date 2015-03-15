@@ -1,0 +1,11 @@
+{
+    "version"    : 1,
+    "type"       : "track",
+    "userId"     : "019mr8mf4r",
+    "event"      : "Purchased an Item",
+    "properties" : {
+        "revenue"        : "39.95",
+        "shippingMethod" : "2-day"
+    },
+    "timestamp" : "2012-12-02T00:30:08.276Z"
+}
